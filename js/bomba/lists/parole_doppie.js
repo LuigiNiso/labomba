@@ -291,7 +291,7 @@ let soluzioni_parole = [
     "LA AMO",
     "OH",
     "LAGO",
-    "CHIAMA",
+    "CHI AMA",
     "L'ETTO",
     "80",
     "HO",
